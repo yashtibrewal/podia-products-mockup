@@ -1,0 +1,27 @@
+{
+  "name": "podia-landing-page-mockup",
+  "version": "1.0.0",
+  "description": "mock up page for the website  https://www.podia.com/digital-products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashtibrewal/podia-products-mockup.git"
+  },
+  "keywords": [
+    "mockup",
+    "podia",
+    "products"
+  ],
+  "author": "Yash Tibrewal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashtibrewal/podia-products-mockup/issues"
+  },
+  "homepage": "https://github.com/yashtibrewal/podia-products-mockup#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
